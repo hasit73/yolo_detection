@@ -31,8 +31,11 @@ here i had used yolo-tiny model parameters for object detection.
 
 2) use following command to run detection on your custom video
 
-python main.py -c config.json -v <media_path>
+  ```
+  python main.py -c config.json -v <media_path>
+  ```
 
-Ex: 
-
-python main.py -c config.json -v car1.mp4
+  Ex: 
+  ```
+  python main.py -c config.json -v car1.mp4
+  ```
