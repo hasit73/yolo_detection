@@ -41,3 +41,13 @@
   ```
   python main.py -c config.json -v car1.mp4
   ```
+
+
+### Results
+![detected_car1](https://user-images.githubusercontent.com/69752829/141614391-69e1ab6f-1382-4b0f-bc0d-f94b072e07fe.PNG)
+![detected_car2](https://user-images.githubusercontent.com/69752829/141614399-16abb25c-f667-453c-b6ce-8226ca6a4f48.PNG)
+![detected_car3](https://user-images.githubusercontent.com/69752829/141614402-fd6978d8-ef44-41c3-93f7-b3e028e29688.PNG)
+
+
+
+
