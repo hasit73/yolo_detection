@@ -2,8 +2,10 @@
 
 ### Algorithm used : Yolo algorithm
 ### Backend : opencv
-### Description:
-here i had used yolo-tiny model parameters for object detection.
+### Library required:
+
+- opencv = 4.5.4-dev'
+
 
 # Quick Overview about structure
 
